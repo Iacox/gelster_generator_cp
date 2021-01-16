@@ -1,0 +1,29 @@
+{
+  "name": "gelster_generator_cp",
+  "version": "2.0.0",
+  "description": "Client side part of the Generator CP App. Get managers easy way to create commercial proposals.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iacox/gelster_generator_cp.git"
+  },
+  "keywords": [
+    "vue",
+    "generating-templates",
+    "javascript",
+    "api",
+    "integration"
+  ],
+  "author": "Ilia Safin (Portulak)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Iacox/gelster_generator_cp/issues"
+  },
+  "homepage": "https://github.com/Iacox/gelster_generator_cp#readme",
+  "dependencies": {
+    "vue": "^3.0.5"
+  }
+}
